@@ -9,7 +9,7 @@ FROM --platform=$BUILDPLATFORM docker.io/node:20-bookworm-slim AS compile-fronte
 
 COPY ./src-ui /src/src-ui
 
-ENV NODE_OPTIONS="--max-old-space-size=4096"
+ENV NODE_OPTIONS="--max-old-space-size=16384"
 
 WORKDIR /src/src-ui
 RUN set -eux \
