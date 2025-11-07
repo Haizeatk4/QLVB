@@ -9,6 +9,8 @@ FROM --platform=$BUILDPLATFORM docker.io/node:20-bookworm-slim AS compile-fronte
 
 COPY ./src-ui /src/src-ui
 
+ENV NODE_OPTIONS="--max-old-space-size=4096"
+
 WORKDIR /src/src-ui
 RUN set -eux \
   && npm update -g pnpm \
@@ -83,6 +85,14 @@ RUN set -eux \
 # Copy our service defs and filesystem
 COPY ./docker/rootfs /
 
+# Ensure s6 service "run" scripts are executable (fix for missing +x when copying from repo)
+RUN set -eux; \
+    if [ -d /etc/s6-overlay ]; then \
+      find /etc/s6-overlay -type f -name run -exec chmod +x {} \; || true; \
+    fi; \
+    # also ensure other common service script names are executable
+    find /etc -type f -name "*.sh" -exec chmod +x {} \; || true
+    
 # Stage: main-app
 # Purpose: The final image
 # Comments:
