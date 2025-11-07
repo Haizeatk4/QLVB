@@ -5,7 +5,7 @@
     sudo apt install git -y                                     #Cài git
 
     git config --global user.name "Tên của bạn"                 #Setup tài khoản Git
-    git config --global user.email "email@example.com"
+    git config --global user.email "email của bạn@example.com"
     
 4.  Mở Docker Desktop vào: Setting(Cài đặt) >> Resources >> WSL integration
     Chọn bật cho Debian rồi nhấn Apply & restart
@@ -20,5 +20,5 @@
 
 7.  Copy docker-compose.yml và docker-compose.env vào thư mục gốc của QLVB
 8.  Mở terminal tại thư mục gốc của QLVB và chạy lệnh:
-    docker compose build
+    docker compose build                                        #Chạy hai lệnh cho mỗi lần sửa code
     docker compose up -d
