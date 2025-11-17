@@ -2913,7 +2913,7 @@
           <context context-type="linenumber">90</context>
         </context-group>
         <target state="translated">
-     Tài liệu "" Đã xóa
+     Tài liệu "<x id="PH"/>" Đã xóa
     </target>
       </trans-unit>
       <trans-unit id="6899041168041745793" datatype="html">
@@ -2923,7 +2923,7 @@
           <context context-type="linenumber">97</context>
         </context-group>
         <target state="translated">
-     Lỗi xóa tài liệu ""
+     Lỗi xóa tài liệu "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="7266264608936522311" datatype="html">
@@ -2973,7 +2973,7 @@
           <context context-type="linenumber">144</context>
         </context-group>
         <target state="translated">
-     Tài liệu "" Phục hồi
+     Tài liệu "<x id="PH"/>" Phục hồi
     </target>
       </trans-unit>
       <trans-unit id="8771034816522852043" datatype="html">
@@ -2983,7 +2983,7 @@
           <context context-type="linenumber">155</context>
         </context-group>
         <target state="translated">
-     Tài liệu khôi phục lỗi ""
+     Tài liệu khôi phục lỗi "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="960063472770266304" datatype="html">
@@ -3307,7 +3307,7 @@
           <context context-type="linenumber">135</context>
         </context-group>
         <target state="translated">
-     Hoàn thành
+     Xác nhận
     </target>
       </trans-unit>
       <trans-unit id="2700091943845128695" datatype="html">
@@ -3317,7 +3317,7 @@
           <context context-type="linenumber">153</context>
         </context-group>
         <target state="translated">
-     Người dùng đã xóa ""
+     Người dùng đã xóa "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="286457042048584728" datatype="html">
@@ -3327,7 +3327,7 @@
           <context context-type="linenumber">160</context>
         </context-group>
         <target state="translated">
-     Lỗi xóa người dùng "".
+     Lỗi xóa người dùng "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="5766640174051730159" datatype="html">
@@ -3379,7 +3379,7 @@
           <context context-type="linenumber">206</context>
         </context-group>
         <target state="translated">
-     Nhóm đã xóa ""
+     Đã xóa nhóm "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="1697803415975901060" datatype="html">
@@ -3389,7 +3389,7 @@
           <context context-type="linenumber">213</context>
         </context-group>
         <target state="translated">
-     Lỗi xóa nhóm "".
+     Lỗi xóa nhóm "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="7931334600001636863" datatype="html">
@@ -4220,7 +4220,7 @@
           <context context-type="linenumber">85</context>
         </context-group>
         <target state="translated">
-     Trường đã lưu "".
+     Đã lưu trường "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="1841172489943868696" datatype="html">
@@ -4486,7 +4486,7 @@
           <context context-type="linenumber">144</context>
         </context-group>
         <target state="translated">
-     ĐẾN
+     Đến
     </target>
       </trans-unit>
       <trans-unit id="231679111972850796" datatype="html">
@@ -8344,8 +8344,8 @@
           <context context-type="linenumber">61</context>
         </context-group>
         <target state="translated">
-     Xin chào, Chào mừng bạn đến
-    </target>
+          Xin chào <x id="PH"/>, Chào mừng bạn đến <x id="PH_1"/>
+        </target>
       </trans-unit>
       <trans-unit id="2901300640157872718" datatype="html">
         <source>Welcome to <x id="PH" equiv-text="environment.appTitle"/></source>
@@ -8354,7 +8354,7 @@
           <context context-type="linenumber">63</context>
         </context-group>
         <target state="translated">
-     Chào mừng bạn đến
+     Chào mừng bạn đến <x id="PH"/>
     </target>
       </trans-unit>
       <trans-unit id="1325877348738783391" datatype="html">
@@ -8364,7 +8364,7 @@
           <context context-type="linenumber">94</context>
         </context-group>
         <target state="translated">
-     Cập nhật trang tông quan
+     Cập nhật trang chủ
     </target>
       </trans-unit>
       <trans-unit id="3214475953924351473" datatype="html">
@@ -8721,7 +8721,7 @@
           <context context-type="linenumber">27</context>
         </context-group>
         <target state="translated">
-     Số trang
+     Trang hiện tại
     </target>
       </trans-unit>
       <trans-unit id="2266163016683537825" datatype="html">
@@ -9311,7 +9311,7 @@
           <context context-type="linenumber">894</context>
         </context-group>
         <target state="translated">
-     Tài liệu "" Đã lưu thành công.
+     Tài liệu "<x id="PH"/>" Đã lưu thành công.
     </target>
       </trans-unit>
       <trans-unit id="6626387786259219838" datatype="html">
@@ -9321,7 +9321,7 @@
           <context context-type="linenumber">900</context>
         </context-group>
         <target state="translated">
-     Lỗi lưu Tài liệu ""
+     Lỗi lưu Tài liệu "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="448882439049417053" datatype="html">
@@ -9341,7 +9341,7 @@
           <context context-type="linenumber">982</context>
         </context-group>
         <target state="translated">
-     Bạn có thực sự muốn chuyển tài liệu "" sang thùng rác không?
+     Bạn có thực sự muốn chuyển tài liệu "<x id="PH"/>" sang thùng rác không?
     </target>
       </trans-unit>
       <trans-unit id="282586936710748252" datatype="html">
@@ -9423,7 +9423,7 @@
           <context context-type="linenumber">1036</context>
         </context-group>
         <target state="translated">
-     Tái xử lý hoạt động cho "" sẽ bắt đầu trong nền. Đóng và mở lại hoặc tải lại tài liệu này sau khi hoạt động hoàn thành để xem nội dung mới.
+     Tái xử lý hoạt động cho "<x id="PH"/>" sẽ bắt đầu trong nền. Đóng và mở lại hoặc tải lại tài liệu này sau khi hoạt động hoàn thành để xem nội dung mới.
     </target>
       </trans-unit>
       <trans-unit id="4409560272830824468" datatype="html">
@@ -9706,7 +9706,7 @@
         </context-group>
         <note priority="1" from="description">This is for messages like 'modify "tag1" and "tag2"'</note>
         <target state="translated">
-     "" Và ""
+     "<x id="PH"/>" Và "<x id="PH_1"/>"
     </target>
       </trans-unit>
       <trans-unit id="1822679894391095557" datatype="html">
@@ -9717,7 +9717,7 @@
         </context-group>
         <note priority="1" from="description">this is for messages like 'modify "tag1", "tag2" and "tag3"'</note>
         <target state="translated">
-     Và ""
+     "<x id="PH"/>" Và "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="4137232459980262849" datatype="html">
@@ -9737,7 +9737,7 @@
           <context context-type="linenumber">411</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ thêm thẻ "" tài liệu được chọn.
+     Hoạt động này sẽ thêm thẻ "<x id="PH"/>" cho <x id="PH_1"/> tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="1894412783609570695" datatype="html">
@@ -9747,7 +9747,7 @@
           <context context-type="linenumber">416,418</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ thêm thẻ cho (các) tài liệu được chọn.
+     Hoạt động này sẽ thêm thẻ "<x id="PH"/>" cho <x id="PH_1"/> tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="7181166515756808573" datatype="html">
@@ -9757,7 +9757,7 @@
           <context context-type="linenumber">424</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ xóa thẻ "" từ (các) tài liệu được chọn.
+     Hoạt động này sẽ xóa thẻ "<x id="PH"/>" từ <x id="PH_1"/> tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="3819792277998068944" datatype="html">
@@ -9797,7 +9797,7 @@
           <context context-type="linenumber">476</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ chỉ định biên tập viên cho (các) tài liệu được chọn"".
+     Hoạt động này sẽ chỉ định biên tập viên <x id="PH"/> cho <x id="PH_1"/> tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="1257522660364398440" datatype="html">
@@ -9807,7 +9807,7 @@
           <context context-type="linenumber">478</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ loại bỏ biên tập viên cho (các) tài liệu được chọn.
+     Hoạt động này sẽ loại bỏ biên tập viên cho <x id="PH"/> tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="5393409374423140648" datatype="html">
@@ -9827,7 +9827,7 @@
           <context context-type="linenumber">514</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ chỉ định loại tài liệu "" cho Tài liệu được chọn.
+     Hoạt động này sẽ chỉ định loại tài liệu "<x id="PH"/>" cho <x id="PH_1"/> Tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="2236642492594872779" datatype="html">
@@ -9857,7 +9857,7 @@
           <context context-type="linenumber">552</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ gán đường dẫn lưu trữ cho "" (các) tài liệu được chọn.
+     Hoạt động này sẽ gán đường dẫn lưu trữ cho "<x id="PH"/>" cho <x id="PH_1"/> tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="60728365335056946" datatype="html">
@@ -9887,7 +9887,7 @@
           <context context-type="linenumber">589</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ gán trường tùy chỉnh "" cho (các) tài liệu được chọn.
+     Hoạt động này sẽ gán trường tùy chỉnh "<x id="PH"/>" cho (các) tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="5789455969634598553" datatype="html">
@@ -9907,7 +9907,7 @@
           <context context-type="linenumber">602</context>
         </context-group>
         <target state="translated">
-     Hoạt động này sẽ xóa trường tùy chỉnh "" từ (các) tài liệu được chọn.
+     Hoạt động này sẽ xóa trường tùy chỉnh "<x id="PH"/>" từ (các) tài liệu được chọn.
     </target>
       </trans-unit>
       <trans-unit id="6666899594015948817" datatype="html">
@@ -10278,7 +10278,7 @@
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
-        <target state="needs-translation">Select:</target>
+        <target state="needs-translation">Chọn:</target>
       </trans-unit>
       <trans-unit id="6252070156626006029" datatype="html">
         <source>None</source>
@@ -10325,7 +10325,7 @@
           <context context-type="linenumber">113</context>
         </context-group>
         <target state="translated">
-     Lưu ""
+     Lưu "<x id="INTERPOLATION"/>"
     </target>
       </trans-unit>
       <trans-unit id="2276119452079372898" datatype="html">
@@ -10647,7 +10647,7 @@
           <context context-type="linenumber">385</context>
         </context-group>
         <target state="translated">
-     Bộ lọc "" Đã lưu thành công.
+     Bộ lọc "<x id="PH"/>" Đã lưu thành công.
     </target>
       </trans-unit>
       <trans-unit id="4646273665293421938" datatype="html">
@@ -10657,7 +10657,7 @@
           <context context-type="linenumber">391</context>
         </context-group>
         <target state="translated">
-     Không thể lưu bộ lọc "".
+     Không thể lưu bộ lọc "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="6837554170707123455" datatype="html">
@@ -10667,7 +10667,7 @@
           <context context-type="linenumber">437</context>
         </context-group>
         <target state="translated">
-     Bộ lọc "" Tạo thành công.
+     Bộ lọc "<x id="PH"/>" Tạo thành công.
     </target>
       </trans-unit>
       <trans-unit id="739880801667335279" datatype="html">
@@ -11093,7 +11093,7 @@
           <context context-type="linenumber">78</context>
         </context-group>
         <target state="translated">
-     Bạn có thực sự muốn xóa biên tập viên ""?
+     Bạn có thực sự muốn xóa biên tập viên "<x id="PH"/>"?
     </target>
       </trans-unit>
       <trans-unit id="8384138406252790442" datatype="html">
@@ -11189,7 +11189,7 @@
           <context context-type="linenumber">112</context>
         </context-group>
         <target state="translated">
-     Trường đã xóa ""
+     Đã xóa trường"<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="4704551499967874824" datatype="html">
@@ -11199,7 +11199,7 @@
           <context context-type="linenumber">121</context>
         </context-group>
         <target state="translated">
-     Lỗi xóa trường "".
+     Lỗi xóa trường "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="8084492669582894778" datatype="html">
@@ -11229,7 +11229,7 @@
           <context context-type="linenumber">49</context>
         </context-group>
         <target state="translated">
-     Bạn có thực sự muốn xóa loại tài liệu ""?
+     Bạn có thực sự muốn xóa loại tài liệu "<x id="PH"/>"?
     </target>
       </trans-unit>
       <trans-unit id="8957855217409261143" datatype="html">
@@ -11425,7 +11425,7 @@
           <context context-type="linenumber">170</context>
         </context-group>
         <target state="translated">
-     Tài khoản đã lưu "".
+     Đã lưu tài khoản "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="8067594003836508139" datatype="html">
@@ -11465,7 +11465,7 @@
           <context context-type="linenumber">201</context>
         </context-group>
         <target state="translated">
-     Tài khoản thư bị xóa ""
+     Đã xóa tài khoản thư "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="5981429299543258715" datatype="html">
@@ -11475,7 +11475,7 @@
           <context context-type="linenumber">212</context>
         </context-group>
         <target state="translated">
-     Lỗi xóa tài khoản thư "".
+     Lỗi xóa tài khoản thư "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="6424800796582120505" datatype="html">
@@ -11485,7 +11485,7 @@
           <context context-type="linenumber">224</context>
         </context-group>
         <target state="translated">
-     Xử lý tài khoản thư ""
+     Xử lý tài khoản thư "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="3138185874003827652" datatype="html">
@@ -11495,7 +11495,7 @@
           <context context-type="linenumber">229</context>
         </context-group>
         <target state="translated">
-     Xử lý lỗi tài khoản thư ""
+     Xử lý lỗi tài khoản thư "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="123368655395433699" datatype="html">
@@ -11505,7 +11505,7 @@
           <context context-type="linenumber">247</context>
         </context-group>
         <target state="translated">
-     Quy tắc đã lưu "".
+     Đã lưu quy tắc "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="8951124554918814321" datatype="html">
@@ -11525,7 +11525,7 @@
           <context context-type="linenumber">274</context>
         </context-group>
         <target state="translated">
-     Quy tắc "" Đã bật.
+     Quy tắc "<x id="PH"/>" Đã bật.
     </target>
       </trans-unit>
       <trans-unit id="7171685227222299542" datatype="html">
@@ -11535,7 +11535,7 @@
           <context context-type="linenumber">275</context>
         </context-group>
         <target state="translated">
-     Quy tắc "" bị vô hiệu hóa.
+     Quy tắc "<x id="PH"/>" bị vô hiệu hóa.
     </target>
       </trans-unit>
       <trans-unit id="7238791203524413596" datatype="html">
@@ -11545,7 +11545,7 @@
           <context context-type="linenumber">280</context>
         </context-group>
         <target state="translated">
-     Lỗi chuyển đổi quy tắc "".
+     Lỗi chuyển đổi quy tắc "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="3896080636020672118" datatype="html">
@@ -11575,7 +11575,7 @@
           <context context-type="linenumber">302</context>
         </context-group>
         <target state="translated">
-     Quy tắc thư bị xóa ""
+     Quy tắc thư bị xóa "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="1696130068388341598" datatype="html">
@@ -11585,7 +11585,7 @@
           <context context-type="linenumber">313</context>
         </context-group>
         <target state="translated">
-     Lỗi xóa quy tắc thư "".
+     Lỗi xóa quy tắc thư "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="3061362835271417984" datatype="html">
@@ -11779,7 +11779,7 @@
           <context context-type="linenumber">216</context>
         </context-group>
         <target state="translated">
-     Cập nhật thành công "".
+     Cập nhật thành công "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="6442673774206210733" datatype="html">
@@ -11981,7 +11981,7 @@
           <context context-type="linenumber">62</context>
         </context-group>
         <target state="translated">
-     Bạn có thực sự muốn xóa đường dẫn lưu trữ ""?
+     Bạn có thực sự muốn xóa đường dẫn lưu trữ "<x id="PH"/>"?
     </target>
       </trans-unit>
       <trans-unit id="6402703264596649214" datatype="html">
@@ -12011,7 +12011,7 @@
           <context context-type="linenumber">61</context>
         </context-group>
         <target state="translated">
-     Bạn có thực sự muốn xóa thẻ ""?
+     Bạn có thực sự muốn xóa thẻ "<x id="PH"/>"?
     </target>
       </trans-unit>
       <trans-unit id="1229748338333965418" datatype="html">
@@ -12051,7 +12051,7 @@
           <context context-type="linenumber">90</context>
         </context-group>
         <target state="translated">
-     Đã lưu quy trình làm việc "".
+     Đã lưu quy trình làm việc "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="7593065565369163325" datatype="html">
@@ -12091,7 +12091,7 @@
           <context context-type="linenumber">142</context>
         </context-group>
         <target state="translated">
-     Xóa quy trình công việc "".
+     Xóa quy trình công việc "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="1427555175623563103" datatype="html">
@@ -12101,7 +12101,7 @@
           <context context-type="linenumber">149</context>
         </context-group>
         <target state="translated">
-     Lỗi xóa quy trình công việc "".
+     Lỗi xóa quy trình công việc "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="3737192425004139518" datatype="html">
@@ -12111,7 +12111,7 @@
           <context context-type="linenumber">162</context>
         </context-group>
         <target state="translated">
-     Quy trình công việc được bật ""
+     Quy trình công việc được bật "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="7404075898344576079" datatype="html">
@@ -12121,7 +12121,7 @@
           <context context-type="linenumber">163</context>
         </context-group>
         <target state="translated">
-     Quy trình công việc bị vô hiệu hóa ""
+     Quy trình công việc bị vô hiệu hóa "<x id="PH"/>"
     </target>
       </trans-unit>
       <trans-unit id="6597823365851861961" datatype="html">
@@ -12131,7 +12131,7 @@
           <context context-type="linenumber">170</context>
         </context-group>
         <target state="translated">
-     Lỗi khi chuyển đổi quy trình làm việc "".
+     Lỗi khi chuyển đổi quy trình làm việc "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="2649252321173430744" datatype="html">
