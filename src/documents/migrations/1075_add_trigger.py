@@ -86,6 +86,8 @@ class Migration(migrations.Migration):
             END;
             $$ LANGUAGE plpgsql;
 
+            DROP TRIGGER IF EXISTS sua_loai_van_ban ON documents_document;
+            
             CREATE TRIGGER sua_loai_van_ban
             AFTER UPDATE OF document_type_id ON documents_document
             FOR EACH ROW
