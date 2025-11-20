@@ -19,6 +19,6 @@
     code . #Mở VS Code
 
 7.  Copy docker-compose.yml và docker-compose.env vào thư mục gốc của QLVB
-8.  Mở terminal tại thư mục gốc của QLVB và chạy lệnh:
-    docker compose build #Chạy hai lệnh cho mỗi lần sửa code
+8.  Mở terminal tại thư mục gốc của QLVB và chạy lệnh: #Chạy hai lệnh cho mỗi lần sửa code
+    docker compose build
     docker compose up -d

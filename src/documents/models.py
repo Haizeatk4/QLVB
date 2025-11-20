@@ -530,7 +530,7 @@ class SavedViewFilterRule(models.Model):
         (25, _("storage path is")),
         (26, _("has correspondent in")),
         (27, _("does not have correspondent in")),
-        (28, _("has document type in")),
+        (28, _("has document type in")), #mark rule_type
         (29, _("does not have document type in")),
         (30, _("has storage path in")),
         (31, _("does not have storage path in")),
