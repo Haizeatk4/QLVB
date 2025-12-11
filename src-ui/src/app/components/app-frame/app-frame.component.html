@@ -25,11 +25,11 @@
       }
     </div>
   </a>
-  <div class="search-container flex-grow-1 py-2 pb-3 pb-sm-2 px-3 ps-md-4 me-sm-auto order-3 order-sm-1">
+  <!-- <div class="search-container flex-grow-1 py-2 pb-3 pb-sm-2 px-3 ps-md-4 me-sm-auto order-3 order-sm-1">
     <div class="col-12 col-md-7">
       <pngx-global-search></pngx-global-search>
     </div>
-  </div>
+  </div> -->
   <ul ngbNav class="order-sm-3">
     <pngx-toasts-dropdown></pngx-toasts-dropdown>
     <li ngbDropdown class="nav-item dropdown">
@@ -115,7 +115,7 @@
                     routerLinkActive="active" (click)="closeMenu()" [ngbPopover]="view.name"
                     [disablePopover]="!slimSidebarEnabled" placement="end" container="body" triggers="mouseenter:mouseleave"
                     popoverClass="popover-slim">
-                    <i-bs class="me-1" name="funnel"></i-bs>
+                    <i-bs class="me-1" name="file-text"></i-bs>
                       <span>&nbsp;<div class="d-inline-flex view-name"><span class="overflow-hidden" [class.text-wrap]="!slimSidebarEnabled">{{view.name}}</span></div>
                         @if (showSidebarCounts && !slimSidebarEnabled) {
                           <span class="badge bg-info text-dark ms-2 d-inline">{{ savedViewService.getDocumentCount(view) }}</span>

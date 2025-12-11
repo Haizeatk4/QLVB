@@ -533,7 +533,7 @@
           <context context-type="linenumber">178</context>
         </context-group>
         <target state="translated">
-     Trang chủ có thể được sử dụng để hiển thị các Bộ lọc đã lưu, chẳng hạn như 'Hộp thư đến'. Các chế độ xem được tìm thấy trong mục Quản lý &gt; Bộ lọc đã lưu sau khi bạn đã tạo một số bộ lọc.
+     Trang chủ có thể được sử dụng để hiển thị các Danh mục đã lưu, chẳng hạn như 'Hộp thư đến'. Các chế độ xem được tìm thấy trong mục Quản lý &gt; Danh mục đã lưu sau khi bạn đã tạo một số bộ lọc.
     </target>
       </trans-unit>
       <trans-unit id="9075755296812854717" datatype="html">
@@ -1340,7 +1340,7 @@
           <context context-type="linenumber">2</context>
         </context-group>
         <target state="translated">
-     Bộ lọc đã lưu
+     Danh mục đã lưu
     </target>
       </trans-unit>
       <trans-unit id="1595668988802980095" datatype="html">
@@ -3462,7 +3462,7 @@
           <context context-type="linenumber">106</context>
         </context-group>
         <target state="translated">
-     Bộ lọc đã lưu
+     Danh mục đã lưu
     </target>
       </trans-unit>
       <trans-unit id="6988090220128974198" datatype="html">
@@ -3870,7 +3870,7 @@
           <context context-type="linenumber">96</context>
         </context-group>
         <target state="translated">
-     Bộ lọc đã lưu
+     Danh mục đã lưu
     </target>
       </trans-unit>
       <trans-unit id="searchResults.tags" datatype="html">
@@ -10315,7 +10315,7 @@
           <context context-type="linenumber">94</context>
         </context-group>
         <target state="translated">
-     Bộ lọc
+     Danh mục
     </target>
       </trans-unit>
       <trans-unit id="1233494216161906927" datatype="html">
@@ -10345,7 +10345,7 @@
           <context context-type="linenumber">117</context>
         </context-group>
         <target state="translated">
-     Tất cả các bộ lọc đã lưu
+     Tất cả các danh mục đã lưu
     </target>
       </trans-unit>
       <trans-unit id="8786996283897742947" datatype="html">
@@ -10647,7 +10647,7 @@
           <context context-type="linenumber">385</context>
         </context-group>
         <target state="translated">
-     Bộ lọc "<x id="PH"/>" Đã lưu thành công.
+     Danh mục "<x id="PH"/>" Đã lưu thành công.
     </target>
       </trans-unit>
       <trans-unit id="4646273665293421938" datatype="html">
@@ -10657,7 +10657,7 @@
           <context context-type="linenumber">391</context>
         </context-group>
         <target state="translated">
-     Không thể lưu bộ lọc "<x id="PH"/>".
+     Không thể lưu danh mục "<x id="PH"/>".
     </target>
       </trans-unit>
       <trans-unit id="6837554170707123455" datatype="html">
@@ -10667,7 +10667,7 @@
           <context context-type="linenumber">437</context>
         </context-group>
         <target state="translated">
-     Bộ lọc "<x id="PH"/>" Tạo thành công.
+     Danh mục "<x id="PH"/>" Tạo thành công.
     </target>
       </trans-unit>
       <trans-unit id="739880801667335279" datatype="html">
@@ -10907,7 +10907,7 @@
           <context context-type="linenumber">3</context>
         </context-group>
         <target state="translated">
-     Lưu bộ lọc hiện tại
+     Lưu danh mục hiện tại
     </target>
       </trans-unit>
       <trans-unit id="8689274715612276035" datatype="html">
@@ -10945,7 +10945,7 @@
           <context context-type="linenumber">13</context>
         </context-group>
         <target state="translated">
-     Lỗi quy tắc lọc xảy ra lỗi trong khi lưu chế bộ lọc này
+     Lỗi quy tắc lọc xảy ra lỗi trong khi lưu danh mục này
     </target>
       </trans-unit>
       <trans-unit id="6438839705789707938" datatype="html">
@@ -11929,7 +11929,7 @@
           <context context-type="linenumber">133</context>
         </context-group>
         <target state="translated">
-     Bộ lọc "
+     Danh mục "
      <x equiv-text="savedView.name" id="PH"/>
      " đã được xóa.
     </target>
@@ -11941,7 +11941,7 @@
           <context context-type="linenumber">158</context>
         </context-group>
         <target state="translated">
-      Lưu bộ lọc thành công.
+      Lưu danh mục thành công.
     </target>
       </trans-unit>
       <trans-unit id="1699877326523238632" datatype="html">
@@ -11951,7 +11951,7 @@
           <context context-type="linenumber">163</context>
         </context-group>
         <target state="translated">
-     Lỗi trong khi lưu bộ lọc.
+     Lỗi trong khi lưu danh mục.
     </target>
       </trans-unit>
       <trans-unit id="5101757640976222639" datatype="html">
@@ -12836,7 +12836,7 @@
           <context context-type="linenumber">29</context>
         </context-group>
         <target state="translated">
-     Bạn có thay đổi chưa được lưu cho bộ lọc đã lưu
+     Bạn có thay đổi chưa được lưu cho danh mục đã lưu
     </target>
       </trans-unit>
       <trans-unit id="7282050913165342352" datatype="html">
@@ -12846,7 +12846,7 @@
           <context context-type="linenumber">33</context>
         </context-group>
         <target state="translated">
-     Bạn có chắc là bạn muốn đóng bộ lọc đã lưu này?
+     Bạn có chắc là bạn muốn đóng danh mục đã lưu này?
     </target>
       </trans-unit>
       <trans-unit id="856284624775342512" datatype="html">
