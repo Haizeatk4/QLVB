@@ -3462,7 +3462,7 @@
           <context context-type="linenumber">106</context>
         </context-group>
         <target state="translated">
-     Danh mục đã lưu
+     Danh mục
     </target>
       </trans-unit>
       <trans-unit id="6988090220128974198" datatype="html">
@@ -3472,7 +3472,7 @@
           <context context-type="linenumber">141</context>
         </context-group>
         <target state="translated">
-     Mở tài liệu
+     Tài liệu đang mở
     </target>
       </trans-unit>
       <trans-unit id="5687256342387781369" datatype="html">
@@ -5714,7 +5714,7 @@
           <context context-type="linenumber">101</context>
         </context-group>
         <target state="translated">
-     Thư điện tử
+     Email
     </target>
       </trans-unit>
       <trans-unit id="5342432350421167093" datatype="html">
