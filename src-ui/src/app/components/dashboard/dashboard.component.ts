@@ -22,7 +22,7 @@ import { SavedViewWidgetComponent } from './widgets/saved-view-widget/saved-view
 import { StatisticsWidgetComponent } from './widgets/statistics-widget/statistics-widget.component'
 import { UploadFileWidgetComponent } from './widgets/upload-file-widget/upload-file-widget.component'
 import { WelcomeWidgetComponent } from './widgets/welcome-widget/welcome-widget.component'
-import { GlobalSearchComponent } from '../app-frame/global-search/global-search.component'
+// import { GlobalSearchComponent } from '../app-frame/global-search/global-search.component'
 
 @Component({
   selector: 'pngx-dashboard',
@@ -30,7 +30,7 @@ import { GlobalSearchComponent } from '../app-frame/global-search/global-search.
   styleUrls: ['./dashboard.component.scss'],
   imports: [
     LogoComponent,
-    GlobalSearchComponent,
+    // GlobalSearchComponent,
     PageHeaderComponent,
     SavedViewWidgetComponent,
     StatisticsWidgetComponent,
