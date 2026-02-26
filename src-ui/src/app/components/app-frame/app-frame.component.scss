@@ -178,8 +178,11 @@ main {
 }
 
 .sidebar-heading {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   text-transform: uppercase;
+  span {
+    color: var(--bs-body-color); // giống màu nav-link
+  }
 }
 
 .nav {

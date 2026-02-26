@@ -23,7 +23,7 @@ import { SavedViewWidgetComponent } from './widgets/saved-view-widget/saved-view
 import { StatisticsWidgetComponent } from './widgets/statistics-widget/statistics-widget.component'
 import { UploadFileWidgetComponent } from './widgets/upload-file-widget/upload-file-widget.component'
 import { WidgetFrameComponent } from './widgets/widget-frame/widget-frame.component'
-// import { GlobalSearchComponent } from '../app-frame/global-search/global-search.component'
+import { GlobalSearchComponent } from '../app-frame/global-search/global-search.component'
 
 const saved_views = [
   {
@@ -87,7 +87,7 @@ describe('DashboardComponent', () => {
         IfPermissionsDirective,
         SavedViewWidgetComponent,
         LogoComponent,
-        // GlobalSearchComponent,
+        GlobalSearchComponent,
       ],
       providers: [
         PermissionsGuard,
